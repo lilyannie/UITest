@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.283">
+  <properties />
+  
+  
+            <testcase name="ClickMenu" time="1.640" classname="com.auto.testcase.HomeMenuTest" />
+                <testcase name="ClickMenu" time="1.643" classname="com.auto.testcase.HomeMenuTest" />
+      
+</testsuite>

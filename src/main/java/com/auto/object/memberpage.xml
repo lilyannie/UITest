@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<!-- 账号管理页 -->
+	<page pageName="memberPage">
+		<locator type="xpath" timeOut="20" value="//a[contains(text(), '记录总数')]">记录总数</locator>
+		<locator type="xpath" timeOut="20" value="//a[contains(text(), '总页数')]">总页数</locator>
+		
+	</page>	
+</map>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<map>
+	<!-- 登录页 -->
+	<page pageName="loginPage">
+		<locator type="id" timeOut="20" value="user_name">用户名</locator>
+		<locator type="id" timeOut="20" value="password">密码</locator>
+		<locator type="xpath" timeOut="20" value="//button[@type='submit']">登录按钮</locator>
+		<locator type="xpath" timeOut="20" value="//a[contains(text(),'忘记密码？')]">忘记密码</locator>
+		<locator type="xpath" timeOut="20" value="//span[@for='user_name']">用户名为空</locator>
+		<locator type="xpath" timeOut="20" value="//span[@for='password']">密码为空</locator>
+		<locator type="id" timeOut="20" value="toast-container">登录失败</locator>
+		
+	</page>	
+</map>

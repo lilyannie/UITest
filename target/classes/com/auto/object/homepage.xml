@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<!-- 登录页 -->
+	<page pageName="homePage">
+		<locator type="xpath" timeOut="20" value="//span[contains(text(), '用户管理')]">用户管理</locator>
+		<locator type="xpath" timeOut="20" value="//span[contains(text(), '账号管理')]">账号管理</locator>
+		<locator type="xpath" timeOut="20" value="//span[contains(text(), '医生管理')]">医生管理</locator>
+		<locator type="xpath" timeOut="20" value="//span[contains(text(), '医生账号管理')]">医生账号管理</locator>
+	</page>	
+</map>

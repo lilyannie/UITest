@@ -1,0 +1,518 @@
+INFO main com.auto.utils.TestNGListener - Test Start
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.trueLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+INFO main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@7c29daf3]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+INFO main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@7c29daf3]Test Success
+INFO main com.auto.utils.TestNGListener - Test Finish
+INFO main com.auto.utils.TestNGListener - Test Start
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.trueLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+INFO main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@7c29daf3]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+INFO main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@7c29daf3]Test Success
+INFO main com.auto.utils.TestNGListener - Test Finish
+INFO main com.auto.utils.TestNGListener - Test Start
+INFO main com.auto.utils.TestNGListener - Test Start
+ERROR main com.auto.utils.TestNGListener - Test Skipped
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.trueLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+ERROR main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@7c29daf3]Test Failure
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+ERROR main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@7c29daf3]Test Failure
+INFO main com.auto.utils.TestNGListener - Test Finish
+INFO main com.auto.utils.TestNGListener - Test Start
+INFO main com.auto.utils.TestNGListener - Test Start
+INFO main com.auto.utils.TestNGListener - Test Start
+ERROR main com.auto.utils.TestNGListener - Test Skipped
+INFO main com.auto.utils.TestNGListener - Test Start
+INFO main com.auto.utils.TestNGListener - Test Start
+INFO main com.auto.utils.TestNGListener - Test Start
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@7c6908d7]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@7c6908d7]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@7c6908d7]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@7c6908d7]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.trueLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@7c6908d7]Test Success
+INFO main com.auto.utils.TestNGListener - Test Start
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+ERROR main com.auto.utils.TestNGListener - LoginTest.trueLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Failure
+ERROR main com.auto.utils.TestNGListener - Test Skipped
+INFO main com.auto.utils.TestNGListener - Test Finish
+INFO main com.auto.utils.TestNGListener - Test Start
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+ERROR main com.auto.utils.TestNGListener - LoginTest.trueLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Failure
+ERROR main com.auto.utils.TestNGListener - Test Skipped
+INFO main com.auto.utils.TestNGListener - Test Finish
+INFO main com.auto.utils.TestNGListener - Test Start
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+ERROR main com.auto.utils.TestNGListener - LoginTest.trueLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Failure
+ERROR main com.auto.utils.TestNGListener - Test Skipped
+INFO main com.auto.utils.TestNGListener - Test Finish
+INFO main com.auto.utils.TestNGListener - Test Start
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+ERROR main com.auto.utils.TestNGListener - LoginTest.trueLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Failure
+ERROR main com.auto.utils.TestNGListener - Test Skipped
+INFO main com.auto.utils.TestNGListener - Test Finish
+INFO main com.auto.utils.TestNGListener - Test Start
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.trueLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+ERROR main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@7c29daf3]Test Failure
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+ERROR main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@7c29daf3]Test Failure
+INFO main com.auto.utils.TestNGListener - Test Finish
+INFO main com.auto.utils.TestNGListener - Test Start
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.trueLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+ERROR main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@7c29daf3]Test Failure
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+ERROR main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@7c29daf3]Test Failure
+INFO main com.auto.utils.TestNGListener - Test Finish
+INFO main com.auto.utils.TestNGListener - Test Start
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.trueLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+INFO main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@7c29daf3]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+INFO main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@7c29daf3]Test Success
+INFO main com.auto.utils.TestNGListener - Test Finish
+INFO main com.auto.utils.TestNGListener - Test Start
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+ERROR main com.auto.utils.TestNGListener - LoginTest.trueLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Failure
+ERROR main com.auto.utils.TestNGListener - Test Skipped
+INFO main com.auto.utils.TestNGListener - Test Finish
+INFO main com.auto.utils.TestNGListener - Test Start
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+ERROR main com.auto.utils.TestNGListener - LoginTest.trueLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Failure
+ERROR main com.auto.utils.TestNGListener - Test Skipped
+INFO main com.auto.utils.TestNGListener - Test Finish
+INFO main com.auto.utils.TestNGListener - Test Start
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+ERROR main com.auto.utils.TestNGListener - LoginTest.trueLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Failure
+ERROR main com.auto.utils.TestNGListener - Test Skipped
+INFO main com.auto.utils.TestNGListener - Test Finish
+INFO main com.auto.utils.TestNGListener - Test Start
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.trueLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@4bbfb90a]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+INFO main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@7c29daf3]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+INFO main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@7c29daf3]Test Success
+INFO main com.auto.utils.TestNGListener - Test Finish
+INFO main com.auto.utils.TestNGListener - Test Start
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.trueLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+ERROR main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@5e853265]Test Failure
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+ERROR main com.auto.utils.XMLUtil - can't find /G:/workspace/UITest/target/classes/com/auto/object/memberpage.xml
+ERROR main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@5e853265]Test Failure
+INFO main com.auto.utils.TestNGListener - Test Finish
+INFO main com.auto.utils.TestNGListener - Test Start
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.trueLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+ERROR main com.auto.utils.XMLUtil - can't find /G:/workspace/UITest/target/classes/com/auto/object/memberpage.xml
+ERROR main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@5e853265]Test Failure
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+ERROR main com.auto.utils.XMLUtil - can't find /G:/workspace/UITest/target/classes/com/auto/object/memberpage.xml
+ERROR main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@5e853265]Test Failure
+INFO main com.auto.utils.TestNGListener - Test Finish
+INFO main com.auto.utils.TestNGListener - Test Start
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.trueLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+INFO main com.auto.utils.XMLUtil - pageName is memberPage
+INFO main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@5e853265]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+INFO main com.auto.utils.XMLUtil - pageName is memberPage
+INFO main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@5e853265]Test Success
+INFO main com.auto.utils.TestNGListener - Test Finish
+INFO main com.auto.utils.TestNGListener - Test Start
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.trueLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+INFO main com.auto.utils.XMLUtil - pageName is memberPage
+INFO main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@5e853265]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+INFO main com.auto.utils.XMLUtil - pageName is memberPage
+INFO main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@5e853265]Test Success
+INFO main com.auto.utils.TestNGListener - Test Finish
+INFO main com.auto.utils.TestNGListener - Test Start
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.trueLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+INFO main com.auto.utils.XMLUtil - pageName is memberPage
+INFO main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@5e853265]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+INFO main com.auto.utils.XMLUtil - pageName is memberPage
+INFO main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@5e853265]Test Success
+INFO main com.auto.utils.TestNGListener - Test Finish
+INFO main com.auto.utils.TestNGListener - Test Start
+ERROR main com.auto.utils.TestNGListener - Test Skipped
+ERROR main com.auto.utils.TestNGListener - Test Skipped
+ERROR main com.auto.utils.TestNGListener - Test Skipped
+ERROR main com.auto.utils.TestNGListener - Test Skipped
+ERROR main com.auto.utils.TestNGListener - Test Skipped
+ERROR main com.auto.utils.TestNGListener - Test Skipped
+INFO main com.auto.utils.TestNGListener - Test Finish
+INFO main com.auto.utils.TestNGListener - Test Start
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+ERROR main com.auto.utils.TestNGListener - LoginTest.trueLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Failure
+ERROR main com.auto.utils.TestNGListener - Test Skipped
+INFO main com.auto.utils.TestNGListener - Test Finish
+INFO main com.auto.utils.TestNGListener - Test Start
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.trueLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+INFO main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@5e853265]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+ERROR main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@5e853265]Test Failure
+INFO main com.auto.utils.TestNGListener - Test Finish
+INFO main com.auto.utils.TestNGListener - Test Start
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.trueLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+ERROR main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@5e853265]Test Failure
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+ERROR main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@5e853265]Test Failure
+INFO main com.auto.utils.TestNGListener - Test Finish
+INFO main com.auto.utils.TestNGListener - Test Start
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.trueLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+INFO main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@5e853265]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+INFO main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@5e853265]Test Success
+INFO main com.auto.utils.TestNGListener - Test Finish
+INFO main com.auto.utils.TestNGListener - Test Start
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.trueLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+INFO main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@5e853265]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+INFO main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@5e853265]Test Success
+INFO main com.auto.utils.TestNGListener - Test Finish
+INFO main com.auto.utils.TestNGListener - Test Start
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.trueLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+INFO main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@5e853265]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+INFO main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@5e853265]Test Success
+INFO main com.auto.utils.TestNGListener - Test Finish
+INFO main com.auto.utils.TestNGListener - Test Start
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.trueLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+INFO main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@5e853265]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+INFO main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@5e853265]Test Success
+INFO main com.auto.utils.TestNGListener - Test Finish
+INFO main com.auto.utils.TestNGListener - Test Start
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.trueLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+INFO main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@5e853265]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+INFO main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@5e853265]Test Success
+INFO main com.auto.utils.TestNGListener - Test Finish
+INFO main com.auto.utils.TestNGListener - Test Start
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.trueLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+INFO main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@5e853265]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+ERROR main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@5e853265]Test Failure
+INFO main com.auto.utils.TestNGListener - Test Finish
+INFO main com.auto.utils.TestNGListener - Test Start
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.errorLogin(java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is loginPage
+INFO main com.auto.utils.TestNGListener - LoginTest.trueLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.LoginTest@6c49835d]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+INFO main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@5e853265]Test Success
+INFO main com.auto.utils.XMLUtil - pageName is homePage
+INFO main com.auto.utils.TestNGListener - HomeMenuTest.ClickMenu(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.auto.testcase.HomeMenuTest@5e853265]Test Success
+INFO main com.auto.utils.TestNGListener - Test Finish

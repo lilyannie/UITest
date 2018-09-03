@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+<head>
+  <title>Test Results Report - test</title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name="description" content="TestNG unit test results." />
+  <link href="reportng.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="reportng.js"></script>
+</head>
+<body>
+
+<style>
+    .preview { display: none; width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; }
+    .bg { width: 100%; height: 100%; background: #000; opacity: 0.5; }
+    .preview img { width: 960px; height: 540px; position: absolute; top: 20%; left: 20%; }
+</style>
+<div class="preview">
+    <div class="bg"></div>
+    <img src="" />
+</div>
+<script src="http://libs.baidu.com/jquery/1.9.0/jquery.js"></script>
+<script>
+    $(document).ready(function() {
+        $('.screenshotimage img').on({
+            click : function(){
+                var src = $(this).attr('src');
+                console.log(src);
+                $('.preview img').attr('src', src);
+                $('.preview').show();
+            }
+        });
+        $('.preview .bg').on({
+            click : function(){
+                $('.preview').hide();
+            }
+        })
+    });
+
+
+
+</script>
+
+<h1>test</h1>
+<p>
+  Test duration: 18.599s
+</p>
+
+
+
+
+
+  <table class="resultsTable">
+    <tr><th colspan="3" class="header passed">Passed Tests</th></tr>
+            <tr>
+            <td colspan="1" class="group">com.auto.testcase.HomeMenuTest</td>
+            <td colspan="1" class="group">Duration</td>
+            <td colspan="1" class="group">Log Info</td>
+            <td colspan="1" class="group">Screen shot</td>
+        </tr>
+            
+<tr>
+  <td class="method">
+                  ClickMenu
+      </td>
+  <td class="duration">
+    1.643s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"用户管理", "账号管理", "https://management-test2.tuhuanjk.com/Member/Index"</span><br />
+    
+        
+
+      </td>
+
+  <td class="screenshot">
+              </td>
+
+</tr>
+<tr>
+  <td class="method">
+                  ClickMenu
+      </td>
+  <td class="duration">
+    1.640s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"医生管理", "医生账号管理", "https://management-test2.tuhuanjk.com/Doctor"</span><br />
+    
+        
+
+      </td>
+
+  <td class="screenshot">
+              </td>
+
+</tr>
+            <tr>
+            <td colspan="1" class="group">com.auto.testcase.LoginTest</td>
+            <td colspan="1" class="group">Duration</td>
+            <td colspan="1" class="group">Log Info</td>
+            <td colspan="1" class="group">Screen shot</td>
+        </tr>
+            
+<tr>
+  <td class="method">
+                  <span class="description" title="错误的用户信息登录">errorLogin (错误的用户信息登录)</span>
+      </td>
+  <td class="duration">
+    1.500s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"", "12345678"</span><br />
+    
+        
+
+      </td>
+
+  <td class="screenshot">
+              </td>
+
+</tr>
+<tr>
+  <td class="method">
+                  <span class="description" title="错误的用户信息登录">errorLogin (错误的用户信息登录)</span>
+      </td>
+  <td class="duration">
+    1.436s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"lilu", "1234567"</span><br />
+    
+        
+
+      </td>
+
+  <td class="screenshot">
+              </td>
+
+</tr>
+<tr>
+  <td class="method">
+                  <span class="description" title="错误的用户信息登录">errorLogin (错误的用户信息登录)</span>
+      </td>
+  <td class="duration">
+    1.424s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"", ""</span><br />
+    
+        
+
+      </td>
+
+  <td class="screenshot">
+              </td>
+
+</tr>
+<tr>
+  <td class="method">
+                  <span class="description" title="错误的用户信息登录">errorLogin (错误的用户信息登录)</span>
+      </td>
+  <td class="duration">
+    1.442s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"lilu", ""</span><br />
+    
+        
+
+      </td>
+
+  <td class="screenshot">
+              </td>
+
+</tr>
+<tr>
+  <td class="method">
+                  <span class="description" title="正确的用户信息登录">trueLogin (正确的用户信息登录)</span>
+      </td>
+  <td class="duration">
+    3.468s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"lilu", "12345678", "http://thjkadmin-qa2.tuhuanjk.com/account/nindex"</span><br />
+    
+        
+
+      </td>
+
+  <td class="screenshot">
+              </td>
+
+</tr>
+      </table>
+  
+</body>
+</html>

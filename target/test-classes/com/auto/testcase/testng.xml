@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite1">
+	<listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter" />
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+    </listeners>
+	<parameter name="browserType" value="firefox"/>
+	<parameter name="browserDriverUrl" value="D:/Program Files/Mozilla Firefox/firefox.exe"/>
+	<parameter name="geckourl" value="D:/Program Files/Mozilla Firefox/geckodriver.exe"/>
+	<parameter name="waitTime" value="20"/>
+	<parameter name="url" value="http://thjkadmin-qa2.tuhuanjk.com/account/login"/>
+	<test name="test"  preserve-order ="true">
+		<classes>
+		  <class name="com.auto.testcase.LoginTest">
+		  	<methods>
+              <include name="errorLogin" />
+              <include name="trueLogin" />
+          </methods>
+          </class>
+		  <class name="com.auto.testcase.HomeMenuTest"/>
+		</classes>
+	</test>
+	
+</suite>
